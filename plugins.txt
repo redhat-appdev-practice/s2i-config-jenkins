@@ -73,7 +73,6 @@ github:1.30.0
 gitlab-logo:1.0.5
 gitlab-merge-request-jenkins:2.0.0
 gitlab-plugin:1.5.13
-google-oauth-plugin:1.0.0
 greenballs:1.15
 groovy-postbuild:2.5
 handlebars:1.1.1
@@ -113,7 +112,6 @@ multiple-scms:0.6
 nexus-artifact-uploader:2.11
 nexus-jenkins-plugin:3.8.20200310-130318.c482b58
 node-iterator-api:1.5
-oauth-credentials:0.4
 openshift-client:1.0.32
 openshift-login:1.0.23
 openshift-pipeline:1.0.57
